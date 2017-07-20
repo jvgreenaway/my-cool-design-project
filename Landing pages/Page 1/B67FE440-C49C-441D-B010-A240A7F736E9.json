@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "CCA91D57-AE7C-49AB-A614-2D09695AC705",
+  "do_objectID": "B67FE440-C49C-441D-B010-A240A7F736E9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 197,
     "width": 246,
-    "x": 829,
-    "y": 143
+    "x": 919,
+    "y": -463
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "my symbol copy 2",
+  "name": "my symbol copy 6",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
