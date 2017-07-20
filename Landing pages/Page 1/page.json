@@ -47,6 +47,10 @@
     {
       "class": "shapeGroup",
       "id": "10AAAB47-6390-48AE-82F8-00C9D704B0DE"
+    },
+    {
+      "class": "text",
+      "id": "531251EB-38CD-4E48-BA7E-73722D8402A3"
     }
   ],
   "name": "Page 1",
