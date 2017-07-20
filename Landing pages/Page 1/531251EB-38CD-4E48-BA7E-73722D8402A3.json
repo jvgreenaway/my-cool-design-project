@@ -19,7 +19,7 @@
                 "UID": 2
               }
             },
-            "Type something",
+            "Type a thing",
             {
               "$class": {
                 "UID": 25
@@ -216,11 +216,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 63,
-    "width": 329,
-    "x": 271,
-    "y": -17
+    "width": 260,
+    "x": 207,
+    "y": -55
   },
-  "glyphBounds": "{{2, 14}, {325, 49}}",
+  "glyphBounds": "{{2, 14}, {257, 49}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -228,7 +228,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Type something",
+  "name": "Type a thing",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
